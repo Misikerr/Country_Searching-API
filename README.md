@@ -1,6 +1,6 @@
 # Country Searching API 🌍 
 
-## Overview
+## Overview 
 This project demonstrates how to integrate web APIs into a website. It is a simple web application that allows users to search for information about countries by name. The site fetches data from a public country information API and displays details such as the country's name, region, population, language, and currency.
 
 ## What I Learned 🚀
